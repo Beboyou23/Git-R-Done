@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    // inserted trivial garbage
 
     override func viewDidLoad() {
         super.viewDidLoad()
